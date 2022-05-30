@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -w "The die is cast" iacta
+grep -w "The die is cast" /tmp/h/iacta
